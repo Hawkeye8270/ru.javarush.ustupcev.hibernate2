@@ -91,9 +91,6 @@ public class App {
         app.customerReturnInventory();
         app.customerRentSomeFilm(customer);
         app.newFilm();
-        app.newFilm();
-
-
     }
 
     private Customer createCustomer() {
